@@ -21,7 +21,6 @@ Başlangıç olarak 5 kişinin numarasını varsayılan olarak ekleyiniz.
 
 Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
 
-
   Lütfen yapmak istediğiniz işlemi seçiniz :) 
   *******************************************
   (1) Yeni Numara Kaydetmek
@@ -29,7 +28,6 @@ Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
   (3) Varolan Numarayı Güncelleme
   (4) Rehberi Listelemek
   (5) Rehberde Arama Yapmak﻿
-
 
 (1) Yeni Numara Kaydetmek
 
