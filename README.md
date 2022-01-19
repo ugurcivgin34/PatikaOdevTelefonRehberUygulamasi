@@ -11,10 +11,7 @@ Telefon Numarası Güncelle
 Rehber Listeleme (A-Z, Z-A seçimli)
 Rehberde Arama
 
-
 Açıklama:
-
-
 
 Başlangıç olarak 5 kişinin numarasını varsayılan olarak ekleyiniz.
 
