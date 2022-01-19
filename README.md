@@ -41,7 +41,8 @@ Kullanıcıdan alınan girdi doğrultusunda rehberde bir kişi bulunamazsa:
 
 Rehberde uygun veri bulunursa:
 
-![image](https://user-images.githubusercontent.com/37384522/150194074-cb6a31f2-3bce-4b06-8aa1-867f863024d8.png)
+![image](https://user-images.githubusercontent.com/37384522/150194449-4da80ac8-adba-491a-bc05-50f826b91e40.png)
+
 
 
 Not: Rehber uygun kriterlere uygun birden fazla kişi bulunursa ilk bulunan silinmeli.
