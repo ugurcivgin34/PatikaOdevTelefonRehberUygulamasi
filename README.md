@@ -1,4 +1,5 @@
 Kullanılan Yapılar
+
 -Veritabanı kullanılmadı.Veriler List<> lerle yönetildi
 
 -4 katmanlı mimari kullanılarak yapıldı.Bunlar entity katmanı,dataAccess katmanı,business katmanı ve UI katmanı
