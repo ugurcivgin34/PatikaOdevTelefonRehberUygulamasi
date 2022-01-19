@@ -25,18 +25,19 @@ Uygulama ilk başladığında kullanıcıya yapmak istediği işlem seçtirilir.
 
 (1) Yeni Numara Kaydetmek
 
-![image](https://user-images.githubusercontent.com/37384522/150193995-45302c50-b0d2-4964-8f99-1db8b4d56765.png)
+![image](https://user-images.githubusercontent.com/37384522/150194349-55672e87-4f2d-4736-9c8b-d7d988ab4fd2.png)
+
 
 (2) Var olan Numarayı Silmek
 
 
 İsim ve soy isime göre arama yapılması yeterlidir.
 
-![image](https://user-images.githubusercontent.com/37384522/150194032-1d72ceea-8b41-4f51-a2cc-0a92bb1a8e05.png)
+![image](https://user-images.githubusercontent.com/37384522/150194367-643e5e59-62cf-404d-81e4-8bbbd01b556b.png)
 
 Kullanıcıdan alınan girdi doğrultusunda rehberde bir kişi bulunamazsa:
 
-![image](https://user-images.githubusercontent.com/37384522/150194061-b4a00c5e-2df2-4dc4-a334-f49a06839515.png)
+![image](https://user-images.githubusercontent.com/37384522/150194381-f876d207-fb7e-4d2e-80cd-f893db32110d.png)
 
 Rehberde uygun veri bulunursa:
 
