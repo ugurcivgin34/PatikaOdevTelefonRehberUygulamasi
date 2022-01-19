@@ -1,3 +1,9 @@
+Kullanılan Yapılar
+-Veritabanı kullanılmadı.Veriler List<> lerle yönetildi
+-4 katmanlı mimari kullanılarak yapıldı.Bunlar entity katmanı,dataAccess katmanı,business katmanı ve UI katmanı
+-Katmanlı mimari mantığını anlamak amacıyla bu proje katmanlı mimariye entegre edildi
+
+
 PROJE-1 : Console Telefon Rehberi Uygulaması
 
 
